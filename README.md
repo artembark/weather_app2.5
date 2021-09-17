@@ -1,16 +1,6 @@
-# weather_app_25
+Testing Weather App with MapBox Map
 
-Weather App with MapBox Map
+Flutter+OpenWeatherMap http request + mapbox_gl Flutter package
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/30658712/133744871-66b780f0-4779-4fac-9dc6-5a667316dd1c.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
